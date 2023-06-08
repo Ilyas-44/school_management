@@ -1,0 +1,11 @@
+/* styles.css */
+.card-hover-zoom {
+    transition: transform 0.3s;
+  }
+  
+  .card-hover-zoom:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Other custom styles */
+  
