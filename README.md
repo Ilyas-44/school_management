@@ -17,3 +17,15 @@ This project is a Student Management System developed using React for the front-
   User Authentication: Implements secure user authentication and access control mechanisms for administrators.
 
 This Student Management System aims to simplify the management of student data, enhance administrative efficiency, and ensure accurate record-keeping. The combination of React, Laravel, and MySQL provides a robust and scalable solution that can be customized and extended to meet the specific requirements of educational institutions.
+
+
+ # Result : 
+![Capture d’écran 2023-06-12 à 14 30 44](https://github.com/Ilyas-44/school_management/assets/117936276/1b7b512e-d7d5-4ece-9b51-c385d637ab85)
+![Capture d’écran 2023-06-12 à 14 37 43](https://github.com/Ilyas-44/school_management/assets/117936276/84c75cf4-3d91-4200-a27e-05f6be7b4f53)
+![Capture d’écran 2023-06-12 à 14 40 41](https://github.com/Ilyas-44/school_management/assets/117936276/5e1e80f1-74b1-4ba3-a393-dd69e732646c)
+![Capture d’écran 2023-06-12 à 14 41 08](https://github.com/Ilyas-44/school_management/assets/117936276/e03f62b6-a9ea-439e-a9ac-f8a79ab6bf44)
+
+![Capture d’écran 2023-06-12 à 14 46 59](https://github.com/Ilyas-44/school_management/assets/117936276/6223cc37-63bf-42c7-9df4-cfe52bfcb0ba)
+
+
+ 
